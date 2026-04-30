@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Merhaba, ben Yavuz
 
-<!--
-**yavuzkeskin52/yavuzkeskin52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Yazılım geliştirmeye ilgi duyan, kendini sürekli geliştiren bir öğrenciyim.  
+💻 Masaüstü, web ve backend tarafında çalışmalar yapıyorum.  
+🚀 GitHub profilimde öğrendiklerimi ve projelerimi paylaşıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Kullandığım Teknolojiler
+
+### 💻 Programlama & Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
+
+### 📱 Mobil & IDE
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+</p>
+
+### 🎨 Tasarım & Video
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+</p>
+
+
+---
+
+## 🧠 Bildiklerim
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> **C#** – OOP, Windows Forms  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** – Temel seviye  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python** – Temel algoritmalar  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML** – Sayfa yapısı  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS** – Basit ve responsive tasarım  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20"/> **Microsoft SQL Server** – Temel veritabanı işlemleri  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="20"/> **Adobe Photoshop** - Temel–orta seviye görsel düzenleme  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="20"/> **Android Studio** - Temel Android uygulama geliştirme  
+
+---
+
+## 📌 İlgi Alanlarım
+- Nesne Tabanlı Programlama (OOP)
+- Masaüstü uygulama geliştirme
+- Veritabanı mantığı
+- Web ve mobil arayüzler
+
+---
+
+## 📂 Projeler
+🔹 Eğitim ve öğrenme amaçlı projeler  
+🔹 Küçük ölçekli uygulamalar   
+
+> 🚧 Profilim aktif olarak güncellenmektedir.
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzkeskin52&show_icons=true&theme=default)
+
+---
+
+## 🎯 Hedefim
+Yazılım alanında kendimi geliştirerek profesyonel projeler üretmek ve çok yönlü bir geliştirici olmak.
+
+---
+
+📫 **İletişim**
+
+- GitHub: https://github.com/yavuzkeskin52  
+- LinkedIn: http://www.linkedin.com/in/yavuzkeskindev
