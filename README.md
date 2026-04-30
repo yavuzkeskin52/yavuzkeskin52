@@ -74,25 +74,10 @@ Yazılım alanında kendimi geliştirerek profesyonel projeler üretmek ve çok 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/yavuzkeskindev" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="linkedin" 
-      height="30" 
-      style="margin-right:10px; transition: transform 0.2s;"
-      onmouseover="this.style.transform='scale(1.2)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+  <a href="https://linkedin.com/in/yavuzkeskindev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/yavuzkeskindev" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-      alt="github" 
-      height="30"
-      style="transition: transform 0.2s;"
-      onmouseover="this.style.transform='scale(1.2)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+  <a href="https://github.com/yavuzkeskindev">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
