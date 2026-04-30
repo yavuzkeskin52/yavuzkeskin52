@@ -44,7 +44,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20"/> **Microsoft SQL Server** – Temel veritabanı işlemleri  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="20"/> **Adobe Photoshop** - Temel–orta seviye görsel düzenleme  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="20"/> **Android Studio** - Temel Android uygulama geliştirme
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40"/> **Adobe After Effects** - Temel seviyede animasyon
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="20"/> **Adobe After Effects** - Temel seviyede animasyon
 
 ---
 
