@@ -71,7 +71,14 @@ Yazılım alanında kendimi geliştirerek profesyonel projeler üretmek ve çok 
 
 ---
 
-📫 **İletişim**
-
-- GitHub: https://github.com/yavuzkeskin52  
-- LinkedIn: http://www.linkedin.com/in/yavuzkeskindev
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yavuzkeskindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yavuzkeskindev" height="30" width="40" /></a>
+  <a href="https://github.com/yavuzkeskindev" target="blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+       alt="yavuzkeskin52" 
+       height="30" 
+       width="40" />
+</a>
+</p>
