@@ -49,16 +49,17 @@
 ---
 
 ## 📌 İlgi Alanlarım
-- Nesne Tabanlı Programlama (OOP)
-- Masaüstü uygulama geliştirme
-- Veritabanı mantığı
-- Web ve mobil arayüzler
+- Nesne Tabanlı Programlama (OOP) ve yazılım mimarisi  
+- .NET ekosisteminde masaüstü ve web uygulama geliştirme  
+- Veritabanı tasarımı, SQL ve veri yönetimi  
+- Modern web teknolojileri ile kullanıcı arayüzü geliştirme  
 
 ---
 
 ## 📂 Projeler
-🔹 Eğitim ve öğrenme amaçlı projeler  
-🔹 Küçük ölçekli uygulamalar   
+🔹 Modern teknolojilerle geliştirilmiş full-stack projeler  
+🔹 Performans, temiz kod ve sürdürülebilirlik odaklı uygulamalar  
+🔹 Öğrenme sürecimi yansıtan ve sürekli geliştirilen projeler  
 
 > 🚧 Profilim aktif olarak güncellenmektedir.
 
@@ -71,7 +72,7 @@
 ---
 
 ## 🎯 Hedefim
-Yazılım alanında kendimi geliştirerek profesyonel projeler üretmek ve çok yönlü bir geliştirici olmak.
+Performanslı, ölçeklenebilir ve gerçek dünya problemlerini çözen projeler geliştirerek çok yönlü ve üretken bir yazılım geliştirici olmak.
 
 ---
 
