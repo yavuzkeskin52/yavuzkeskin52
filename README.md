@@ -86,3 +86,4 @@ Performanslı, ölçeklenebilir ve gerçek dünya problemlerini çözen projeler
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+![snake gif](https://github.com/yavuzkesikn52/yavuzkesikn52/blob/output/github-contribution-grid-snake.gif)
