@@ -65,12 +65,6 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzkeskin52&show_icons=true&theme=default)
-
----
-
 ## 🎯 Hedefim
 Performanslı, ölçeklenebilir ve gerçek dünya problemlerini çözen projeler geliştirerek çok yönlü ve üretken bir yazılım geliştirici olmak.
 
